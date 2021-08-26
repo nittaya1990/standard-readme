@@ -1,4 +1,4 @@
-# 标准 Readme
+# 标准 README
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
